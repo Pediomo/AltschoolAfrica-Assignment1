@@ -1,0 +1,19 @@
+h2 {
+    color: slategrey;
+}
+
+p {
+    color: dimgrey;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+li {
+    color: dimgrey;
+    padding-bottom: 30px;
+}
+
+body {
+    margin: 100px 50px 300px 150px;
+    /*top - - left*/
+}
